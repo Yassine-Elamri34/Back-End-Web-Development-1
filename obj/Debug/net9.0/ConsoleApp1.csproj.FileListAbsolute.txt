@@ -1,0 +1,28 @@
+C:\Users\elamr\Documents\backend\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\elamr\Documents\backend\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\elamr\Documents\backend\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\elamr\Documents\backend\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\elamr\Documents\backend\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\elamr\Documents\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elamr\Documents\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\elamr\Documents\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\elamr\Documents\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\elamr\Documents\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\elamr\Documents\backend\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\elamr\Documents\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\elamr\Documents\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\elamr\Documents\backend\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\elamr\Desktop\Back-End Web dev\backend\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
